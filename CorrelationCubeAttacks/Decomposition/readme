@@ -1,1 +1,3 @@
-Yes!
+  This program is writen in c. Its aim is to find cubes which are useful in the correlation cube attacks. 
+  In main.cpp the function GetandTestX is called to filter potentail useful cubes. Then, we need to call the function GetandTestXVerifyV2 to verify whether a potential useful cube is really a useful cube. In the output file, there are "succedd!!!" and "Usatisified!!! Plaese try another cube" following a useful cube and  a useless cube respectively.
+  
